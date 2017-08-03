@@ -1,1 +1,3 @@
-Hellos
+<?php 
+echo('php');
+ ?>
